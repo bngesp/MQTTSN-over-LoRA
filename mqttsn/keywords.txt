@@ -1,0 +1,31 @@
+MQTTSN                      KEYWORD1
+
+find_topic_id               KEYWORD2
+wait_for_response           KEYWORD2
+connected                   KEYWORD2
+parse_stream                KEYWORD2
+searchgw                    KEYWORD2
+connect                     KEYWORD2
+willtopic                   KEYWORD2
+willmsg                     KEYWORD2
+register_topic              KEYWORD2
+publish                     KEYWORD2
+subscribe_by_name           KEYWORD2
+subscribe_by_id             KEYWORD2
+unsubscribe_by_name         KEYWORD2
+unsubscribe_by_id           KEYWORD2
+pingreq                     KEYWORD2
+pingresp                    KEYWORD2
+disconnect                  KEYWORD2
+
+FLAG_DUP                    LITERAL1
+FLAG_QOS_0                  LITERAL1
+FLAG_QOS_1                  LITERAL1
+FLAG_QOS_2                  LITERAL1
+FLAG_QOS_M1                 LITERAL1
+FLAG_RETAIN                 LITERAL1
+FLAG_WILL                   LITERAL1
+FLAG_CLEAN                  LITERAL1
+FLAG_TOPIC_NAME             LITERAL1
+FLAG_TOPIC_PREDEFINED_ID    LITERAL1
+FLAG_TOPIC_SHORT_NAME       LITERAL1
